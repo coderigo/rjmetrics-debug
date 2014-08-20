@@ -1,0 +1,18 @@
+{
+  "name": "vinus-metrics",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Martell",
+  "license": "Not for public!",
+  "dependencies": {
+    "async": "^0.9.0",
+    "elapse": "^0.1.1",
+    "request": "^2.40.0",
+    "rjmetrics": "^0.1.1",
+    "underscore": "^1.6.0"
+  }
+}
